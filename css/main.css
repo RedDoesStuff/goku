@@ -1,5 +1,5 @@
 body { 
-    background-color: #1a1a1a; 
+    background-color: #000000; 
     height: 100%;
     overflow: hidden;
 }
@@ -7,4 +7,5 @@ body {
 img {
     width: 1200px;
     height: auto;
+    opaticity: 0.7;
 }
